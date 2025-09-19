@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+.venv/
+.env
+.ipynb_checkpoints/
+data/*
+!data/olist_prepared_dataset.csv

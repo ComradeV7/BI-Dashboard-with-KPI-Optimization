@@ -1,0 +1,8 @@
+Flask
+flask-cors
+pandas
+joblib
+scikit-learn
+pmdarima
+openpyxl
+gunicorn
